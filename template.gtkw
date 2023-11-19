@@ -1,0 +1,65 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Nov 18 18:55:34 2023
+[*]
+[dumpfile] "/home/nadox/Schreibtisch/project/tri_state_example/tri_state_bus_example.vcd"
+[dumpfile_mtime] "Sat Nov 18 18:54:37 2023"
+[dumpfile_size] 5166
+[savefile] "/home/nadox/Schreibtisch/project/tri_state_example/template.gtkw"
+[timestart] 0
+[size] 1848 1016
+[pos] -1 -1
+*-6.564593 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tri_state_bus_tb.
+[sst_width] 233
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@200
+-TOP
+@28
+tri_state_bus_tb.clk
+@22
+tri_state_bus_tb.rx_data_1[7:0]
+tri_state_bus_tb.rx_data_2[7:0]
+tri_state_bus_tb.rx_data_3[7:0]
+@28
+tri_state_bus_tb.tri_state_en_1
+tri_state_bus_tb.tri_state_en_2
+tri_state_bus_tb.tri_state_en_3
+@22
+tri_state_bus_tb.tx_data[7:0]
+@200
+-DUT1
+@22
+tri_state_bus_tb.DUT1.counter[7:0]
+@28
+tri_state_bus_tb.DUT1.i_clk
+tri_state_bus_tb.DUT1.i_tri_state_en
+@22
+tri_state_bus_tb.DUT1.io_data[7:0]
+tri_state_bus_tb.DUT1.o_data[7:0]
+@200
+-DUT2
+@22
+tri_state_bus_tb.DUT2.counter[7:0]
+@28
+tri_state_bus_tb.DUT2.i_clk
+tri_state_bus_tb.DUT2.i_tri_state_en
+@22
+tri_state_bus_tb.DUT2.io_data[7:0]
+tri_state_bus_tb.DUT2.o_data[7:0]
+@200
+-DUT3
+@23
+tri_state_bus_tb.DUT3.counter[7:0]
+@29
+tri_state_bus_tb.DUT3.i_clk
+tri_state_bus_tb.DUT3.i_tri_state_en
+@23
+tri_state_bus_tb.DUT3.io_data[7:0]
+tri_state_bus_tb.DUT3.o_data[7:0]
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
