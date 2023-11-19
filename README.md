@@ -1,4 +1,4 @@
-Example of a simple tri_state_bus architecture
+Simple tri_state buffer bus
 ===================================
 This small repository contains an educational example of a [tri_state](https://nandland.com/create-tri-state-buffer-in-vhdl-and-verilog/) buffer bus in Verilog. The bus can be read and written by 3 components (but only one at a time), depending on which tri-state buffer is enabled.  Waveform and the structure of the module can be seen in the photo.
 
