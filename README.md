@@ -12,12 +12,12 @@ Dependencies: **iverilog** and **gtkwave**
 ## Architecture
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nado15/tri_state-bus/main/tri_state_bus_architecture.png"/>
+  <img src="https://raw.githubusercontent.com/Nado15/tri_state-bus/master/tri_state_bus_architecture.png"/>
 </p>
 
 ## Waveform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nado15/tri_state-bus/main/waveform_tri_state_bus.png"/>
+  <img src="https://raw.githubusercontent.com/Nado15/tri_state-bus/master/waveform_tri_state_bus.png"/>
 </p>
 
