@@ -7,7 +7,7 @@ module tri_state_bus_tb;
   reg tri_state_en_2 = 1'b0;
   reg tri_state_en_3 = 1'b0;
 
-  //tx_data is simulates the inout wire
+  //tx_data simulates the inout wire
   wire [7:0]tx_data;
 
   wire [7:0]rx_data_1;
